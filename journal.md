@@ -22,3 +22,5 @@ However, we still haven't answered question X, so we'll not retire yet.
 # Conclusions
 We did the science. New insights into particle formation were discovered. 
 
+#Figures
+This is where figures go in our draft paper. 
