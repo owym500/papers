@@ -15,3 +15,6 @@ Jim Haywood (2000) made aircraft measurements over the Sahel, focusing on radiat
 #Methodology
 Measurements were made using an AMS, as decsribed in Allan et al 2003.
 
+# Results
+The simulations reproduced the measurements nicely, supporting the formation process proposed in our previous paper. 
+
