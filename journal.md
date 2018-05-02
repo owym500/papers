@@ -1,6 +1,6 @@
 gjh
 # Title
-Measurements of secondary organic aerosol over West Africa
+Measurement-model comparison of secondary organic aerosol formation over West Africa
 
 # Authors
 Gerard Capes
