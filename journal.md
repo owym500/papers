@@ -1,10 +1,9 @@
 gjh
 # Title
-Measurement-model comparison of secondary organic aerosol formation over West Africa
+Measurements of secondary organic aerosol over West Africa
 
 # Authors
 Gerard Capes
-Joe Bloggs
 
 # Introduction
 We present here aircraft measurements of SOA over Niger, using an Aerodyne aerosol mass spectrometer (Allan, 2004). 
