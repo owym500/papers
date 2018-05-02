@@ -3,3 +3,5 @@ Allan et al 2004, Seminal paper on Aerosol Mass Spectrometer
 Haywood et al 2000, Measurements of SOA over the Sahel. 
 
 3rd ref. Plot hole? 
+
+Allan et al 2003. Some other AMS paper.

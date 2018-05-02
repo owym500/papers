@@ -12,3 +12,6 @@ Jim Haywood (2000) made aircraft measurements over the Sahel, focusing on radiat
 
 #Simulations
 
+#Methodology
+Measurements were made using an AMS, as decsribed in Allan et al 2003.
+
